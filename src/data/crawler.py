@@ -16,7 +16,7 @@ from datetime import datetime
 # Replace with your API Key or set it as an environment variable
 API_KEY = os.getenv("TMDB_API_KEY", "YOUR_API_KEY_HERE")
 
-OUTPUT_FILE = "data/movies_dataset_revenue.csv"
+OUTPUT_FILE = "data/raw/movies_dataset_revenue.csv"
 START_YEAR = 2000
 END_YEAR = 2024
 PAGES_PER_YEAR = 25   # 25 pages * 20 movies = 500 highest-revenue movies per year
