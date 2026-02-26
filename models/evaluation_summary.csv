@@ -1,0 +1,2 @@
+Best Model,Test R²,Test RMSE,Test MAE,Test MAPE (%),Overfitting Status,Total Models Evaluated,Test Set Size,Number of Features
+Best Model,0.5931686036194619,1.6668030589963083,1.2351739436148401,10.260435123028076,Moderate,4,2249,31
