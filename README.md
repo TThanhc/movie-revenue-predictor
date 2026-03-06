@@ -94,7 +94,7 @@ The launcher will:
 
 **Step 1: Clone Repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/TThanhc/movie-revenue-predictor
 cd movie-revenue-predictor
 ```
 
